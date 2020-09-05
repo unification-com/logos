@@ -1,3 +1,3 @@
 # Logos
-A place for official (and unofficial!) for Unification's graphics 
+A place for official (and unofficial!) Unification's graphics 
 
